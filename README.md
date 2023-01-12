@@ -1,5 +1,5 @@
-# _nti_2021_
-Team Oasis colab notebooks and stuff for nti-2021
+# _NTO 2021_
+Team Oasis colab notebooks and stuff for National Tech Olympycs - 2021
 
 ## _First stage_
 Typical text classification
@@ -12,7 +12,7 @@ Typical text classification
 
 ### _Second stage_
 
-There are a lot of ways to handle this dataset. We tried (partially succesfull): QA, Classification, Correct span generation with and withous NER
+There are a lot of ways to handle this dataset. We tried (partially succesfull): QA, Classification, Span generation with and withous NER
 
 * Dataset
   * https://russiansuperglue.com/tasks/download/RuCoS
